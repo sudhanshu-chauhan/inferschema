@@ -1,8 +1,8 @@
 package main
 
 import (
+	"inferschema/app"
 	"net/http"
-	"sudhanshu-exercise/app"
 )
 
 func main() {

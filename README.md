@@ -12,7 +12,7 @@ A sample rest api application exposing an endpoint to determine schema of an api
 
 ### Running Tests
 ```
-go test sudhanshu-exercise/app
+go test inferschema/app
 ```
 
 ### Installation Steps
